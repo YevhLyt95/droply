@@ -1,0 +1,1 @@
+This is my first full stack app, like a dropbox. Run with PosgreSQL(Neop app) and Next.js for the frontend. Done with help of freecodecamp tutorial(https://www.youtube.com/watch?v=IcOiX-jynfI)
